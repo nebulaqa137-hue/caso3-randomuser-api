@@ -3,7 +3,7 @@
 
 ## Descripción
 
-Proyecto de automatización de pruebas para la API pública [randomuser.me](https://randomuser.me), desarrollado como parte del caso práctico de QA para Envíoclick.
+Proyecto de automatización de pruebas para la API pública [randomuser.me](https://randomuser.me),.
 
 Valida de forma automatizada los diferentes endpoints, parámetros y opciones que expone la API: filtros por género y nacionalidad, reproducibilidad por semilla, selección y exclusión de campos específicos, y validaciones de integridad sobre los datos retornados. No requiere navegador ni Docker, es prueba de API pura implementada con RestAssured y Cucumber.
 
